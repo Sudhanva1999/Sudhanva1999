@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/sudhanva1999/sudhanva1999/main/LinkedIn.png)
+![enter image description here](https://raw.githubusercontent.com/Sudhanva1999/Sudhanva1999/main/LinkedIn.png)
 <h1 align="center">Hi 👋, I'm Sudhanva Paturkar</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
